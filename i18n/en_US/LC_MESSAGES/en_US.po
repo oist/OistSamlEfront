@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-10-17 10:48+0900\n"
+"PO-Revision-Date: 2016-10-17 10:48+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: Model/OistSamlForm.php\n"
+
+#: www/plugins/OistSaml/Model/OistSamlForm.php:17
+msgid "Enable SAML sitewide"
+msgstr ""
+
+#: www/plugins/OistSaml/Model/OistSamlForm.php:21
+msgid "Make sure SAML is enabled and configured in the <a href = '/system-config/tab/saml' class = 'link'>SAML settings.</a>"
+msgstr ""
